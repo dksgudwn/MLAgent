@@ -19,7 +19,6 @@ public class PenguinAgent : Agent
     public override void CollectObservations(VectorSensor sensor)
     {
 
-
     }
 
     public override void OnActionReceived(ActionBuffers actions)
