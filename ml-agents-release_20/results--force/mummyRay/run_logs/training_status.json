@@ -1,0 +1,29 @@
+{
+    "MummyRay": {
+        "checkpoints": [
+            {
+                "steps": 73632,
+                "file_path": "D:\\Code\\GitHub\\MLAgent\\ml-agents-release_20\\results--force\\mummyRay\\MummyRay\\MummyRay-73632.onnx",
+                "reward": 1.3722144930645646,
+                "creation_time": 1712041721.3549507,
+                "auxillary_file_paths": [
+                    "D:\\Code\\GitHub\\MLAgent\\ml-agents-release_20\\results--force\\mummyRay\\MummyRay\\MummyRay-73632.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 73632,
+            "file_path": "D:\\Code\\GitHub\\MLAgent\\ml-agents-release_20\\results--force\\mummyRay\\MummyRay.onnx",
+            "reward": 1.3722144930645646,
+            "creation_time": 1712041721.3549507,
+            "auxillary_file_paths": [
+                "D:\\Code\\GitHub\\MLAgent\\ml-agents-release_20\\results--force\\mummyRay\\MummyRay\\MummyRay-73632.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

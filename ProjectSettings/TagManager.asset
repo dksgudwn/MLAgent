@@ -8,6 +8,8 @@ TagManager:
   - Target
   - GoodItem
   - BadItem
+  - BABY_PENGUIN
+  - FISH
   layers:
   - Default
   - TransparentFX
